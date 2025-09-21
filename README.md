@@ -242,6 +242,7 @@ public class FullFormFinder extends JFrame {
     }
 }
 
+
 class DatabaseConnection {
     private static final String DB_URL = "jdbc:mysql://localhost:3306/acronym_db";
     private static final String USER = "acronym_user";
